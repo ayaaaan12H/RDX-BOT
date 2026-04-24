@@ -4,10 +4,10 @@ const fs = require("fs");
 module.exports = {
   config: {
     name: 'lassi',
-    aliases: ['lassee', 'lassy', 'lassi', 'yogurt drink', 'drink'],
-    description: 'Send a lassi image',
+    aliases: ['ownerpic', 'adminpic', 'ownerdp', 'admindp', 'ayandp'],
+    description: 'Send a ownerdp image',
     credits: "SARDAR RDX",
-    usage: '.lassi',
+    usage: '.ownerdp',
     category: 'Fun',
     adminOnly: false,
     prefix: true
@@ -15,10 +15,10 @@ module.exports = {
 
   async run({ api, event, send }) {
     const images = [
-      "https://i.ibb.co/Q7zzN5Dd/90674709056d.jpg",
-      "https://i.ibb.co/cSg2mYDr/c97a0916274f.jpg",
-      "https://i.ibb.co/gMx83j43/aa6b14a22144.jpg",
-      "https://i.ibb.co/h1BQsGfr/2d566af526b1.jpg",
+      "https://ibb.co/8DVMzZwP",
+      "https://i.imgur.com/e9dOGP3.jpg",
+      "https://ibb.co/NdTHh6tr",
+      "https://ibb.co/dwjd5zQ9",
     ];
 
     const randomImg = images[Math.floor(Math.random() * images.length)];
