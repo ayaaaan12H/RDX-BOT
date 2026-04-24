@@ -18,7 +18,6 @@ module.exports = {
 
     const ownerPics = [
       'https://ibb.co/9kdBB7bv'
-      'https://ibb.co/8DVMzZwP'
     ];
 
     const randomPic = ownerPics[0];
