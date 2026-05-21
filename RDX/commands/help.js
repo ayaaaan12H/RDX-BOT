@@ -95,7 +95,7 @@ function showDefaultHelp({ api, event, send, client, config }) {
 
   msg += `────────────────
    💡 Use ${config.PREFIX}help all (Full List)
-   👤 Owner: SARDAR RDX
+   👤 Owner: 𝗔𝗬𝗔𝗡ゝ🩷
 ────────────────`;
 
   return send.reply(msg);
