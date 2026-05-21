@@ -107,22 +107,3 @@
         "creation": "2026-04-29T10:13:23.347Z",
         "lastAccessed": "2026-04-29T10:13:23.347Z"
     },
-    {
-        "key": "presence",
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1777457569732%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2026-04-29T10:13:23.347Z",
-        "lastAccessed": "2026-04-29T10:13:23.347Z"
-    },
-    {
-        "key": "fr",
-        "value": "1oqQLBlShfA5kZFTp.AWfZ3ZqEBLHA72Wby6mpncb1QRvMzQk1fBSYpwO6OIQ4Oi7rgE8.Bp8dm8..AAA.0.0.Bp8dno.AWcd7BgX8mPXtQrGZ1kih5LvkN8",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2026-04-29T10:13:23.347Z",
-        "lastAccessed": "2026-04-29T10:13:23.347Z"
-    }
-]
